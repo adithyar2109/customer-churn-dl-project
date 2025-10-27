@@ -1,0 +1,6 @@
+tensorflow
+keras
+fastapi
+scikit-learn
+pandas
+uvicorn
